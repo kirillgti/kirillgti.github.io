@@ -1,2 +1,2 @@
-# kirillgti.github.io
-Glo-Academy-site
+# Кирилл Третьяков
+Glo-Academy-site (Мой первый сайт)
